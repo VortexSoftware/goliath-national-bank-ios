@@ -21,12 +21,12 @@ class ProductsListViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         setupTableView()
+        fetchData()
     }
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         navigationItem.title = "GNB Products"
-        fetchData()
     }
     
     private func setupTableView() {
