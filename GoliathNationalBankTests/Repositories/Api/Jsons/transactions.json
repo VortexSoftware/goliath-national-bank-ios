@@ -1,0 +1,17 @@
+[
+    {
+        "sku": "SKU1",
+        "amount": "16.3",
+        "currency": "AUD"
+    },
+    {
+        "sku": "SKU2",
+        "amount": "31.7",
+        "currency": "USD"
+    },
+    {
+        "sku": "SKU3",
+        "amount": "18.4",
+        "currency": "EUR"
+    }
+]

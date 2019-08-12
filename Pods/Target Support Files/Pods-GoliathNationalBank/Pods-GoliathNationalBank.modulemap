@@ -1,0 +1,6 @@
+framework module Pods_GoliathNationalBank {
+  umbrella header "Pods-GoliathNationalBank-umbrella.h"
+
+  export *
+  module * { export * }
+}
