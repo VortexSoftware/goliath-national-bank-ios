@@ -1,6 +1,6 @@
-# Goliath National Bank iOS App
+# Goliath National Bank iOS App
 
-## Requirements
+## Requirements
 - Swift 5
 - iOS 11.0+
 - Xcode 10.2.1
